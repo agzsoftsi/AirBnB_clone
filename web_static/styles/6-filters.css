@@ -1,3 +1,11 @@
+@charset "utf-8";
+/*
+Project: AirBnb Clone
+Author: Carlos Andres Garcia
+This Module contains all filters styles for Task 6-7-8
+*/
+
+
 .filters {
 	   background-color: #FFFFFF;
 	   height: 70px;

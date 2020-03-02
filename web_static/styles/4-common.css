@@ -1,3 +1,11 @@
+@charset "utf-8";
+/*
+Project: AirBnb Clone
+Author: Carlos Andres Garcia
+This Module contains all commons styles for Task 4
+*/
+
+
 body {
 	margin: 0;
 	padding: 0;

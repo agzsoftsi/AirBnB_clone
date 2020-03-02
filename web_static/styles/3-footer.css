@@ -1,3 +1,10 @@
+@charset "utf-8";
+/*
+Project: AirBnb Clone
+Author: Carlos Andres Garcia
+This Module contains the footer styles for Task Advanced 3
+*/
+
 footer {
 	background-color: #FFFFFF;
 	height: 60px;

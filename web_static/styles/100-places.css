@@ -1,3 +1,11 @@
+@charset "utf-8";
+/*
+Project: AirBnb Clone
+Author: Carlos Andres Garcia
+This Module contains all styles for Task Advanced 100
+*/
+
+
 section.places{
     display: flex;
     flex-direction: row;

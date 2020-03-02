@@ -1,3 +1,10 @@
+@charset "utf-8";
+/*
+Project: AirBnb Clone
+Author: Carlos Andres Garcia
+This Module contains all filters styles for Task Advanced 4
+*/
+
 .filters {
 	background-color: #FFFFFF;
 	height: 70px;
@@ -22,4 +29,3 @@ button {
 button:hover {
 	opacity: 90%;
 	     }
-

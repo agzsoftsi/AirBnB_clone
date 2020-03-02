@@ -1,3 +1,10 @@
+@charset "utf-8";
+/*
+Project: AirBnb Clone
+Author: Carlos Andres Garcia
+This Module contains the header styles for Task Advanced 3
+*/
+
 header {
 	background-color: #FFFFFF;
 	height: 70px;
