@@ -37,6 +37,7 @@ button:hover {
 	     display: inline-grid;
 	   }
 
+
 .locations h3, .amenities h3 {
             font-size: 18px;
             font-weight: 600;
@@ -50,6 +51,7 @@ button:hover {
     font-size: 14px;
     margin-left: 50px;
 }
+
 
 .popover{
           background-color: #FAFAFA;
